@@ -6,6 +6,7 @@
 #include "chatbot.h"
 
 #include <iostream>
+#include <memory>
 
 
 // forward declarations
