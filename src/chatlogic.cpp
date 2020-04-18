@@ -193,9 +193,6 @@ void ChatLogic::LoadAnswerGraphFromFile(std::string filename)
         }
     }
 
-    // set current node
-    _currentNode = rootNode;
-
     // create instance of chatbot
     ChatBot chatBot("../images/chatbot.png");
 
